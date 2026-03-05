@@ -1,2 +1,0 @@
-Meu primeiro versionamento com Git.
-Linha nova adicionada.
